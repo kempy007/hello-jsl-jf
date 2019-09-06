@@ -3,3 +3,7 @@
 stage('hello') {
     sayHello('Francesca')
 }
+
+stage('rnd') {
+    getRandom('Francesca')
+}
