@@ -1,4 +1,4 @@
-@Library('pipeline-library') _
+@Library('hello') _
 
 stage('hello') {
     sayHello('Francesca')
