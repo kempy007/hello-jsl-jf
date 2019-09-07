@@ -7,3 +7,7 @@ stage('hello') {
 stage('rnd') {
     getRandom('Francesca')
 }
+
+stage('talk') {
+    msgHook()
+}
